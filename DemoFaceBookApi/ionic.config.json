@@ -1,0 +1,8 @@
+{
+  "name": "DemoFaceBookApi",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
